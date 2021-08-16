@@ -3,7 +3,7 @@ function connect(){
 	$host='localhost';
 	$user='root';
 	$pass='';
-	$database='BookishDine';
+	$database='bookishdine';
 	
 	
 	$con = new mysqli($host,$user,$pass,$database);
